@@ -1,5 +1,6 @@
 # CEBD1260
 =============
+
 Final Project
 
 
@@ -16,6 +17,10 @@ Research and Hacking done through StackOverflow / SKLearn documentation / Machin
 
 Prepared For:
 =
-
-Dr. Muhammed Y Idris
+Dr. Muhammed Y Idris, https://www.linkedin.com/in/muhamedidris/
 December 9th 2017
+
+
+With Assistance from :
+=
+Deyvid William Evaristo , https://www.linkedin.com/in/deyvidwilliam/
