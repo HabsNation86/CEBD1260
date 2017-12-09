@@ -1,8 +1,4 @@
 # CEBD1260
-=============
-
-Final Project
-
 
 Included are all Assignments and the data used for each assignment.
 
@@ -18,6 +14,7 @@ Research and Hacking done through StackOverflow / SKLearn documentation / Machin
 Prepared For:
 =
 Dr. Muhammed Y Idris, https://www.linkedin.com/in/muhamedidris/
+
 December 9th 2017
 
 
